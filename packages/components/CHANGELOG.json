@@ -1,0 +1,17 @@
+{
+  "name": "@alan/components",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@alan/components_v1.0.1",
+      "date": "Mon, 21 Nov 2022 07:54:44 GMT",
+      "comments": {
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@alan/hooks\" to `1.0.1`"
+          }
+        ]
+      }
+    }
+  ]
+}
